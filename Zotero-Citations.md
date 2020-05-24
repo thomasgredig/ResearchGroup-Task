@@ -96,3 +96,8 @@ We have included a list of references on the topic of iron phthalocyanine in the
 The final PDF file may start as shown here:
 
 ![PDF file with references: beginning](images/Zotero-Generated-PDF.png)
+
+## Bibliography Styles
+
+A style that includes the abstract, which can be useful, is
+[abstract.bst](http://mirrors.ctan.org/biblio/bibtex/contrib/misc/abstract.bst)
